@@ -16,7 +16,7 @@ These should be enough to get you started:
 ## Talks and Videos
 
 - [The Fedora Podcast - Episode 30](https://www.youtube.com/watch?v=cHYyGVOae84) - Jorge Castro and Timothee Ravier talk about Silverblue and the future of Immutable Desktops.
-- [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here!
+- [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - Jorge Castro went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here!
 - [The Read Only Scenario](https://linuxunplugged.com/468) - An excellent introduction to these kinds of desktops
 - [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc) - Richard Brown
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
@@ -66,8 +66,7 @@ The Future is Now™, try one of these today!
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 - [SteamOS](https://store.steampowered.com/steamos) - The official Arch-based atomic linux distribution by Valve
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
-	- [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
-	- Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
+	- [awesome-nix](https://github.com/nix-community/awesome-nix) - An awesome curated knowledge-base about Nix
 - [SnowflakeOS](https://snowflakeos.org/) - A [NixOS](https://nixos.org/) based Linux distribution focused on beginner friendliness and ease of use.
 - [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager
 - [RDE](http://trop.in/rde/) - Developer and power user friendly GNU/Linux distribution based on GNU Guix functional package manager
