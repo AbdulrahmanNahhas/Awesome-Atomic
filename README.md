@@ -148,25 +148,6 @@ If you're automating the config on systems like this please PR your config to sh
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 - [silvernobara](https://github.com/VinnyVynce/silvernobara) - Fedora Silverblue with Project Nobara enhancements
 
-## Discussion
-
-- Reddit:
-	- [r/silverblue](https://www.reddit.com/r/silverblue/)
-	- [r/vanillaos](https://www.reddit.com/r/vanillaos/)
-	- [r/NixOS](https://www.reddit.com/r/NixOS/)
-	- [r/flatpak](https://www.reddit.com/r/flatpak/)
-
-- Discord Servers:
-	- [Universal Blue Discord](https://discord.gg/Xsk7n54fFY)
-	- [NixOS Discord](https://discord.gg/RbvHtGa)
-	- [VanillaOS Discord](https://discord.gg/vanilla-os-1023243680829681704)
-	- [ChimeraOS Discord](https://discord.gg/rgB8utyteK)
-
-- Matrix Rooms:
-	- [Fedora Silverblue Matrix Room](https://matrix.to/#/#silverblue:fedoraproject.org)
-	- [NixOS Matrix Room](https://matrix.to/#/#nix:matrix.org)
-	- [OpenSUSE Aeon / Kalpa](https://matrix.to/#/#microos-desktop:opensuse.org)
-
 ## Miscellaneous
 
 Things that don't fit anywhere else but might be useful reference material
