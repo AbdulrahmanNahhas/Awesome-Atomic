@@ -81,6 +81,14 @@ The Future is Now™, try one of these today!
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS utilizing [frzr](https://github.com/ChimeraOS/frzr)
 - [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
 
+## Tools
+
+- [Nix](https://nixos.org/)
+	- [DevEnv](https://devenv.sh/)
+	- [DevBox](https://www.jetify.com/devbox/)
+	- [Flox](https://flox.dev/)
+- [Guix](https://guix.gnu.org/)
+
 ## Toolboxes
 
 There historically have been a few versions of "toolbox", and we're probably at a point where it's more of a class of software than an individual project.
@@ -146,9 +154,3 @@ If you're automating the config on systems like this please PR your config to sh
 - [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 - [silvernobara](https://github.com/VinnyVynce/silvernobara) - Fedora Silverblue with Project Nobara enhancements
-
-## Miscellaneous
-
-Things that don't fit anywhere else but might be useful reference material
-
-- [Introducing flox - Nix for simplicity and scale](https://discourse.nixos.org/t/introducing-flox-nix-for-simplicity-and-scale/11275) - Barry Plunkett
