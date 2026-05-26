@@ -75,6 +75,7 @@ The Future is Now™, try one of these today!
 	- [ChromeOS (Flex)](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure operating system by Google. _flex is the non-chromebook version_
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
 - [GNOME OS](https://os.gnome.org/) - The official bleeding-edge development and testing distribution (not recommended for daily usage) of the GNOME project, only shipping GNOME and flatpaks without any other package manager
+- [KDE Linux](https://linux.kde.org/) - KDE’s official Alpha-stage immutable, image-based reference operating system, built from Arch Linux packages without being a traditional Arch-based distribution, featuring Plasma, Flatpak-first apps, atomic updates, and rollback support.
 - [Nitrux](https://nxos.org/) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
